@@ -1,8 +1,14 @@
+//
+//   Code by JohnTitorq. GitHub: https://github.com/JohnTitorq
+//   Copyright © 2024 JohnTitorq. All rights reserved.
+//  
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>            // Core graphics library
 #include <Adafruit_ST7735.h>      // Hardware-specific library
 #include <ESPAsyncWebServer.h>
 #include <esp_wifi.h> 
+//#include <WiFi.h>
 
 
 // Add external font

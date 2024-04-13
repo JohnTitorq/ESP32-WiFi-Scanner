@@ -7,4 +7,8 @@ The list of received Wi-Fi networks can also be used for other functions.
 
 ![plot](./preview/preview.png)
 
+## Connect the ST7735 display to NodeMCU32:
+
+![plot](./preview/nodeMCU32st7735Pins.PNG)
+
 > **Contact Me: johntitorqwqqwqqwq@yahoo.com**
